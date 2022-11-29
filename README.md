@@ -32,6 +32,7 @@ Output: (saved to local)
 2. Inference example:
 
 Prediction:
+
 ![image](https://github.com/fjljlzy/Fine-tune-Layoutlmv3-on-SROIE/blob/master/sroie_inference_data/X00016469670.jpg)
 
 Ground truth:
