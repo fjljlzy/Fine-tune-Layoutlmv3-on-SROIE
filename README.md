@@ -4,8 +4,7 @@
 This repo will record my toy code for LayoutLMv3 fine-tuning. The goal of this project is to extract entities from a given document image (key-value extraction). Key-value extraction will be done using the SROIE dataset which comprises of scanned receipts in English language.
 
 ### SROIE 2019 dataset: 
-Introduced by Huang et al. in ICDAR2019 Competition on Scanned Receipt OCR and Information Extraction
-Consists of a dataset with 1000 whole scanned receipt images and annotations (training set: 652, testing set: 347) for the competition on scanned receipts OCR and key information extraction (SROIE). 
+Introduced by Huang et al. in ICDAR2019 Competition on Scanned Receipt OCR and Information Extraction. Consists of a dataset with 1000 whole scanned receipt images and annotations (training set: 652, testing set: 347) for the competition on scanned receipts OCR and key information extraction (SROIE). 
 
 In this code, I trained the model with a dataset from Hugging Face: [arvindrajan92/sroie_document_understanding](https://huggingface.co/datasets/arvindrajan92/sroie_document_understanding), which is an enriched version of SROIE 2019 dataset with additional labels and precise bounding box coordinates for OCR and layout understanding. 
 
