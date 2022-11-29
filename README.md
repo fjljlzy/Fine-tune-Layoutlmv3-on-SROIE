@@ -34,13 +34,13 @@ Output: (saved to local)
 Prediction:
 ![image](https://github.com/fjljlzy/Fine-tune-Layoutlmv3-on-SROIE/blob/master/sroie_inference_data/X00016469670.jpg)
 
-***python
 Ground truth:
+```python
 {
     "company": "OJC MARKETING SDN BHD",
     "date": "15/01/2019",
     "address": "NO 2 & 4, JALAN BAYU 4, BANDAR SERI ALAM, B1750 MASAI, JOHOR",
     "total": "193.00"
 }
-***
+```
 
