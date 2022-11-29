@@ -22,4 +22,14 @@ Use Hugging Face Trainer to finetune this model.
 
 2. Inference Visualization:
 
+![image](https://github.com/fjljlzy/Fine-tune-Layoutlmv3-on-SROIE/blob/master/sroie_inference_data/X00016469670.jpg)
+
+Compare to ground truth:
+{
+    "company": "OJC MARKETING SDN BHD",
+    "date": "15/01/2019",
+    "address": "NO 2 & 4, JALAN BAYU 4, BANDAR SERI ALAM, B1750 MASAI, JOHOR",
+    "total": "193.00"
+}
+
 
