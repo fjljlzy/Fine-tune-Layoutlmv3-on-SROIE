@@ -6,9 +6,7 @@ This repo will record my toy code for LayoutLMv3 fine-tuning. The goal of this p
 ### SROIE 2019 dataset: 
 Introduced by Huang et al. in ICDAR2019 Competition on Scanned Receipt OCR and Information Extraction. Consists of a dataset with 1000 whole scanned receipt images and annotations (training set: 652, testing set: 347) for the competition on scanned receipts OCR and key information extraction (SROIE). 
 
-In this code, I trained the model with a dataset from Hugging Face: [arvindrajan92/sroie_document_understanding](https://huggingface.co/datasets/arvindrajan92/sroie_document_understanding), which is an enriched version of SROIE 2019 dataset with additional labels and precise bounding box coordinates for OCR and layout understanding. 
-
-Split the dataset into training part and evaluation part with a ratio 9:1. 
+In this code, I trained the model with a dataset from Hugging Face: [arvindrajan92/sroie_document_understanding](https://huggingface.co/datasets/arvindrajan92/sroie_document_understanding), which is an enriched version of SROIE 2019 dataset with additional labels and precise bounding box coordinates for OCR and layout understanding. Split this dataset into training part and evaluation part with a ratio 9:1. 
 
 ### Model: LayoutLMv3
 
