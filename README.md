@@ -18,8 +18,8 @@ Use Hugging Face Trainer to finetune this model.
 
 ### Result:
 
-1. Token classification result (saved as output.csv)
+1. Token classification result on test set: (saved as output.csv)
 
-2. Prediction Visualization
+2. Inference Visualization:
 
 
